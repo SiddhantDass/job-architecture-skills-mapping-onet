@@ -36,7 +36,7 @@ job evaluation.
 Excel (data cleaning, XLOOKUP, pivot tables), Power BI (data modeling, DAX, visuals)
 
 ## Dashboard Preview
-![Dashboard screenshot](screenshots-dashboard-overview.png)
+![Dashboard screenshot](screenshots/dashboard-overview.png)
 
 ## Files in This Repo
 - `onet_clean_for_powerbi.xlsx` — cleaned data workbook
